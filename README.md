@@ -1,5 +1,7 @@
 # solana-holder-snapshot
 
+[![CI](https://github.com/landingen24h/kog-holder-snapshot/actions/workflows/ci.yml/badge.svg)](https://github.com/landingen24h/kog-holder-snapshot/actions/workflows/ci.yml)
+
 A reproducible snapshot of the top holders of a Solana token, SPL Token and Token 2022 aware. Node 20 or later, TypeScript, no runtime dependency except tsx for the bin.
 
 ## Library
